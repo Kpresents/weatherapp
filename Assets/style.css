@@ -1,0 +1,24 @@
+button {
+    border-radius: 6px;
+}
+
+h1 {
+    background-image: linear-gradient(blue, purple);
+    height: 60px;
+
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.list-group-item {
+    padding: 10px;
+
+}
+
+.search-button {
+    margin-top: 10px;
+}
