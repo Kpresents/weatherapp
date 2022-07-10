@@ -8,4 +8,5 @@ Icons display weather conditions of the searched city.
 ![WebPageScreenshot](./Assets/screencapture-file-Users-carolina-Desktop-Challenges-UCLA-weatherapp-index-html-2022-07-03-21_40_20.png)
 
 
-URL: https://kpresents.github.com
+Application URL :https://kpresents.github.io/weatherapp/
+Repo: https://github.com/Kpresents/weatherapp
